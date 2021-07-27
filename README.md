@@ -19,4 +19,5 @@ The data is recorded at 12.5fps.
 
 A screenshot of PAMELA is shown below.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/akaimody123/PAMELA_dataset/blob/main/screenshot.png)
+
